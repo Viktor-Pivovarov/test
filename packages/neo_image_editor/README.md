@@ -1,0 +1,2 @@
+Localization
+flutter gen-l10n --arb-dir=lib/l10n --template-arb-file=app_en.arb --output-localization-file=neo_image_editor_localizations.dart --output-dir=lib/l10n/generated --output-class=NeoImageEditorLocalizations --no-synthetic-package

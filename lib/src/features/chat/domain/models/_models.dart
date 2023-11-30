@@ -1,0 +1,11 @@
+export 'chat/chat_dto.dart';
+export 'chat_interlocutor/chat_interlocutor_dto.dart';
+export 'chat_message/chat_message_dto.dart';
+export 'chat_message_event.dart';
+export 'failure/chat_failure.dart';
+export 'pagination/pagination_dto.dart';
+export 'pending_chat/pending_chat_dto.dart';
+export 'pending_chat_interlocutor/pending_chat_interlocutor_dto.dart';
+export 'response_chats/response_chats_dto.dart';
+export 'response_pending_chats/response_pending_chats_dto.dart';
+export 'send_chat_message_response/send_chat_message_response_dto.dart';

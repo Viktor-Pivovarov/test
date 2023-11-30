@@ -1,0 +1,20 @@
+{
+    "explorer.fileNesting.patterns": {
+        "mason.yaml": "mason-lock.json",
+        "pubspec.yaml": ".packages, .metadata, pubspec.lock, analysis_options.yaml",
+        "*.dart": "${capture}.g.dart, ${capture}.freezed.dart"
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "canonicalized",
+        "dartz",
+        "geolocator",
+        "openapi",
+        "spinkit",
+        "Subtags"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.formatOnSave": true
+}

@@ -1,0 +1,1824 @@
+{
+  "@@last_modified": "2023-11-21T15:01:50.898054",
+  "CommonI18n_male": "Мужской",
+  "@CommonI18n_male": {
+    "description": "Пол человека",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_female": "Женский",
+  "@CommonI18n_female": {
+    "description": "Пол человека",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_yes": "Да",
+  "@CommonI18n_yes": {
+    "description": "Подтверждение",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_no": "Нет",
+  "@CommonI18n_no": {
+    "description": "Подтверждение",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_inTheMorning": "Утром",
+  "@CommonI18n_inTheMorning": {
+    "description": "Время суток",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_inTheEvening": "Вечером",
+  "@CommonI18n_inTheEvening": {
+    "description": "Время суток",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_updateTitle": "Доступно\nобновление",
+  "@CommonI18n_updateTitle": {
+    "description": "Заголовок обновления окна",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_updateBtn": "Обновить",
+  "@CommonI18n_updateBtn": {
+    "description": "Кнопка обновления окна",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_updateDescription": "Мы добавили новые функции и повысили стабильность работы. Пожалуйста обновите JOJO",
+  "@CommonI18n_updateDescription": {
+    "description": "Описание обновления окна",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "CommonI18n_dialogTariffsBtn": "Тарифы",
+  "@CommonI18n_dialogTariffsBtn": {
+    "description": "Кнопка тарифы",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "WelcomeSheetI18n_title": "Hi! I am JOJO - your personal matchmaker",
+  "@WelcomeSheetI18n_title": {
+    "description": "Title on welcome page",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_title": "Вход",
+  "@SignInI18n_title": {
+    "description": "Заголовок на экране входа",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_signUpWithTG": "Продолжить с Telegram",
+  "@SignInI18n_signUpWithTG": {
+    "description": "Название кнопки входа Telegram",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_tgAdditional": "Дополнительные возможности",
+  "@SignInI18n_tgAdditional": {
+    "description": "Дополнительные возможности",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_signUpWithApple": "Продолжить с Apple",
+  "@SignInI18n_signUpWithApple": {
+    "description": "Название кнопки входа Apple",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_signUpWithGoogle": "Продолжить с Google",
+  "@SignInI18n_signUpWithGoogle": {
+    "description": "Название кнопки входа Google",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_privacy": "By entering you agree to the `Terms of Use` & `Privacy Policy`",
+  "@SignInI18n_privacy": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_createAccount": "Создать новый аккаунт",
+  "@SignInI18n_createAccount": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_support": "Написать в поддержку",
+  "@SignInI18n_support": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_accountNotFoundTitle": "{choice,select, appleId{Apple ID не найден}google{Аккаунт Google\nне найден}}",
+  "@SignInI18n_accountNotFoundTitle": {
+    "description": "Заголовок на экране аккаунт не найден",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_accountNotFoundDescription": "{choice,select, appleId{Мы не нашли аккаунт JOJO\nпривязанный к данному\nApple ID}google{Мы не нашли аккаунт JOJO\nпривязанный к данному\nаккаунту Google}}",
+  "@SignInI18n_accountNotFoundDescription": {
+    "description": "Описание на экране аккаунт не найден",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_sexTitle": "Знакомства для гетеросексуалов",
+  "@SignInI18n_sexTitle": {
+    "description": "Заголовок на экране выбора пола",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_sexDescription": "Мужчина + женщина",
+  "@SignInI18n_sexDescription": {
+    "description": "Описание на экране выбора пола",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_chooseYourSex": "Укажи свой пол",
+  "@SignInI18n_chooseYourSex": {
+    "description": "Лэйбл на экране выбора пола",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_astrologicalTitle": "Алгоритм подбора анализирует 17 параметров",
+  "@SignInI18n_astrologicalTitle": {
+    "description": "Заголовок на экране выбора астрологии",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_astrologicalDescription": "Учитывать\nастрологические аспекты?",
+  "@SignInI18n_astrologicalDescription": {
+    "description": "Описание на экране выбора астрологии",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_astrologicalShowBtn": "Нет",
+  "@SignInI18n_astrologicalShowBtn": {
+    "description": "Кнопка выбора астрологии",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_astrologicalRequiredBtn": "Да",
+  "@SignInI18n_astrologicalRequiredBtn": {
+    "description": "Кнопка выбора астрологии",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_verificationTitle": "{choice,select, true{Все девушки \nпроходят \nверификацию}false{Все мужчины \nпроходят \nверификацию}}",
+  "@SignInI18n_verificationTitle": {
+    "description": "Заголовок на экране подтверждения для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_verificationNotReadyTitle": "Верификация займет всего минуту",
+  "@SignInI18n_verificationNotReadyTitle": {
+    "description": "verificationNotReadyTitle",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_verificationDescription": "{choice,select, true{А ты готов пройти \nпроверку?}false{А ты готова \nпройти \nпроверку?}}",
+  "@SignInI18n_verificationDescription": {
+    "description": "Заголовок на экране подтверждения для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_verificationNotDescription": "Зарегистрироваться без проверки нельзя. Необходимо повторить жест и сделать селфи. Образец",
+  "@SignInI18n_verificationNotDescription": {
+    "description": "verificationNotDescription",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_checkNotificationTitle": "Получай\nуведомления",
+  "@SignInI18n_checkNotificationTitle": {
+    "description": "checkNotificationTitle",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_reportOnlyImportant": "Сообщаем только важное",
+  "@SignInI18n_reportOnlyImportant": {
+    "description": "We report only important",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_checkNotificationDescription": "{value,select, v0{Новый ежедневный подбор}v1{Взаимная симпатия}v2{Сообщение в чате}}",
+  "@SignInI18n_checkNotificationDescription": {
+    "description": "checkNotificationDescription",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SignInI18n_notificationTitle": "{choice,select, true{Ежедневно делается подборка из нескольких девушек}false{Ежедневно делается подборка из нескольких мужчин}}",
+  "@SignInI18n_notificationTitle": {
+    "description": "Заголовок на экране подтверждения для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_notificationDescription": "{choice,select, true{Когда присылать их \nанкеты?}false{Когда присылать их \nанкеты?}}",
+  "@SignInI18n_notificationDescription": {
+    "description": "Описание на экране подтверждения для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_paymentTitle": "{choice,select, true{Оплата за свидания. За знакомства \nплатят оба}false{Оплата за свидания. За знакомства \nплатят оба}}",
+  "@SignInI18n_paymentTitle": {
+    "description": "Заголовок на экране подтверждения оплаты для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_paymentDescription": "{choice,select, true{Ты готов платить \nза результат?}false{Ты готова платить \nза результат?}}",
+  "@SignInI18n_paymentDescription": {
+    "description": "Описание на экране подтверждения оплаты для мужчин",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignInI18n_continueRegistrationTitle": "Пройти\nрегистрацию без\nпроверки — нельзя",
+  "@SignInI18n_continueRegistrationTitle": {
+    "description": "Заголовок на экране продолжения регистрации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_continueRegistrationDescription": "Мы против фейков.",
+  "@SignInI18n_continueRegistrationDescription": {
+    "description": "Описание на экране продолжения регистрации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_paymentNotReadyTitle": "Ничего\nстрашного",
+  "@SignInI18n_paymentNotReadyTitle": {
+    "description": "Заголовок на экране отказа платежа",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_paymentNotReadyDescription": "В меню есть несколько \nвариантов получения \nбесплатных свиданий",
+  "@SignInI18n_paymentNotReadyDescription": {
+    "description": "Описание на экране продолжения регистрации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_continueRegistrationBtn": "Продолжить",
+  "@SignInI18n_continueRegistrationBtn": {
+    "description": "Кнопка на экране продолжения регистрации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_enableGeoLocationTitle": "Включи\nгеолокацию",
+  "@SignInI18n_enableGeoLocationTitle": {
+    "description": "Заголовок на экране включения геолокации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_enableGeoLocationDescription": "Это позволит искать для тебя\nкандидатов рядом",
+  "@SignInI18n_enableGeoLocationDescription": {
+    "description": "Описание на экране включения геолокации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_enableGeoLocationBtn": "Включить геолокацию",
+  "@SignInI18n_enableGeoLocationBtn": {
+    "description": "Кнопка на экране включения геолокации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_geoLocationDisabled": "Геолокация отключена",
+  "@SignInI18n_geoLocationDisabled": {
+    "description": "geoLocationDisabled",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_selectCity": "Указать город",
+  "@SignInI18n_selectCity": {
+    "description": "selectCity",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_selectCityTitle": "Выбор города",
+  "@SignInI18n_selectCityTitle": {
+    "description": "selectCityTitle",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_geoLocationDisabledTitle": "Укажи город\nв котором ты проживаешь",
+  "@SignInI18n_geoLocationDisabledTitle": {
+    "description": "geoLocationDisabled",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_geoLocationDisabledDescription": "Расчет расстояния до кандидата будет производиться от центра населенного пункта.",
+  "@SignInI18n_geoLocationDisabledDescription": {
+    "description": "geoLocationDisabled",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignInI18n_appSettingsError": "Не удалось открыть настройки",
+  "@SignInI18n_appSettingsError": {
+    "description": "geoLocationDisabled",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_signIn": "Sign In",
+  "@AuthI18n_signIn": {
+    "description": "Sign In title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_login": "Login",
+  "@AuthI18n_login": {
+    "description": "Login",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_loginRequired": "Login required",
+  "@AuthI18n_loginRequired": {
+    "description": "Login required",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_password": "Password",
+  "@AuthI18n_password": {
+    "description": "Password",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_passwordRequired": "The password must not be empty",
+  "@AuthI18n_passwordRequired": {
+    "description": "Password validation message",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_userNotFound": "Incorrect username or password",
+  "@AuthI18n_userNotFound": {
+    "description": "Incorrect username or password message",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_minimumPassword": "Password must have at least 6 characters",
+  "@AuthI18n_minimumPassword": {
+    "description": "Password must have at least 6 characters",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "AuthI18n_checkInternetConnection": "Check internet connection",
+  "@AuthI18n_checkInternetConnection": {
+    "description": "Check internet connection",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LanguagesI18n_title": "Языки",
+  "@LanguagesI18n_title": {
+    "description": "Description for Languages title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LanguagesI18n_confirm": "Подтверждаю",
+  "@LanguagesI18n_confirm": {
+    "description": "confirm",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LanguagesI18n_languagesNotFound": "Languages not found",
+  "@LanguagesI18n_languagesNotFound": {
+    "description": "Description for Languages not found",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LanguagesI18n_search": "Найти язык",
+  "@LanguagesI18n_search": {
+    "description": "LanguagesI18n",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LanguagesI18n_systemLanguage": "Язык системы",
+  "@LanguagesI18n_systemLanguage": {
+    "description": "systemLanguage",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "GeoLocationI18n_title": "Выбор города",
+  "@GeoLocationI18n_title": {
+    "description": "Description for GeoLocation title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "GeoLocationI18n_geoLocationNotFound": "GeoLocation not found",
+  "@GeoLocationI18n_geoLocationNotFound": {
+    "description": "Description for GeoLocation not found",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "GeoLocationI18n_findCity": "Найти город",
+  "@GeoLocationI18n_findCity": {
+    "description": "Найти город",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_editProfileBtn": "Ред. профиль",
+  "@ProfileI18n_editProfileBtn": {
+    "description": "Название кнопки редактирования",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_firstName": "Имя",
+  "@ProfileI18n_firstName": {
+    "description": "firstName",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthday": "Дата рождения",
+  "@ProfileI18n_birthday": {
+    "description": "birthday",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthdayTitle": "Выберите вашу дату рождения",
+  "@ProfileI18n_birthdayTitle": {
+    "description": "birthday",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthTime": "Время рождения",
+  "@ProfileI18n_birthTime": {
+    "description": "birthTime",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthTimeDescription": "Выберите ваше время рождения",
+  "@ProfileI18n_birthTimeDescription": {
+    "description": "birthTimeDescription",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_editDescription": "Для изменения имени, даты или места рождения обратись в службу поддержки",
+  "@ProfileI18n_editDescription": {
+    "description": "editDescription",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_editProfileBirthday": "Изменить дату рождения",
+  "@ProfileI18n_editProfileBirthday": {
+    "description": "Изменить дату рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthdayDescription": "Другие пользователи увидят\nтолько ваш возраст",
+  "@ProfileI18n_birthdayDescription": {
+    "description": "birthdayDescription",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_birthdayLocation": "Место рождения",
+  "@ProfileI18n_birthdayLocation": {
+    "description": "birthdayLocation",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_editProfileBirthTime": "Изменить время рождения",
+  "@ProfileI18n_editProfileBirthTime": {
+    "description": "Изменить время рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_editProfile": "Редактировать",
+  "@ProfileI18n_editProfile": {
+    "description": "Редактировать",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_myProfile": "Моя анкета",
+  "@ProfileI18n_myProfile": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_questionnaireTitle": "{value,select, height{Рост}education{Образование}professionalStatus{Проф. статус}sphere{Сфера деятельности}religion{Вероисповедание}familyPlan{Планы на семью}smokeStatus{Курение}alcoholStatus{Алкоголь}foodPreference{Предпочтение в еде}workout{Тренировки}sleepHabit{Предпочтения во сне}covid{Вакцина от COVID}pets{Питомцы}idealMeetingPoints{Идеальное свидание}}",
+  "@ProfileI18n_questionnaireTitle": {
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "ProfileI18n_heightValue": "{value} см",
+  "@ProfileI18n_heightValue": {
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "ProfileI18n_addAnswer": "Добавить ответ",
+  "@ProfileI18n_addAnswer": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_myInterests": "Мои интересы",
+  "@ProfileI18n_myInterests": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_languageSkills": "Владение языками",
+  "@ProfileI18n_languageSkills": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_multiSelectTitle": "Отметьте один или несколько вариантов",
+  "@ProfileI18n_multiSelectTitle": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_noPets": "Нет питомцев",
+  "@ProfileI18n_noPets": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_emptyPhoto": "Фотографии не загружены",
+  "@ProfileI18n_emptyPhoto": {
+    "description": "Подсказка, когда фотографии не загружены",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_photos": "Фотографии",
+  "@ProfileI18n_photos": {
+    "description": "Фотографии",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_bornCardTitle": "{city}, {birthday} {time}",
+  "@ProfileI18n_bornCardTitle": {
+    "description": "Заголовок карточки пользовательских данных",
+    "type": "text",
+    "placeholders_order": [
+      "city",
+      "birthday",
+      "time"
+    ],
+    "placeholders": {
+      "city": {},
+      "birthday": {},
+      "time": {}
+    }
+  },
+  "ProfileI18n_ratingCardTitle": "Ваш рейтинг",
+  "@ProfileI18n_ratingCardTitle": {
+    "description": "Заголовок карточки рейтинга пользователя",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_ratingCardDescription": "Что влияет на рейтинг?",
+  "@ProfileI18n_ratingCardDescription": {
+    "description": "Описание карточки рейтинга пользователя",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_questionnaireCardTitle": "Профиль заполнен:",
+  "@ProfileI18n_questionnaireCardTitle": {
+    "description": "Заголовок карточки процент заполненности анкеты",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_questionnaireCardDescription": "Заполни на 100% и получи\nодно свидание в подарок",
+  "@ProfileI18n_questionnaireCardDescription": {
+    "description": "Описание карточки процент заполненности анкеты",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_aboutMeCardTitle": "Главное обо мне",
+  "@ProfileI18n_aboutMeCardTitle": {
+    "description": "Заголовок карточки информации о пользователи",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_aboutMeCardDescription": "Lorem ipsum dolor sit amet, consectetur\nadipiscing elit. Lorem ipsum dolor sit\namet, consectetur adipiscing elit...",
+  "@ProfileI18n_aboutMeCardDescription": {
+    "description": "Описание карточки информации о пользователи",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_activateHintsCardTitle": "Активируй подсказки",
+  "@ProfileI18n_activateHintsCardTitle": {
+    "description": "Заголовок карточки активировать подсказки telegram bot",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_activateHintsCardDescription": "Помогает увеличить количество и качество знакомств",
+  "@ProfileI18n_activateHintsCardDescription": {
+    "description": "Описание карточки активировать подсказки telegram bot",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_questionnaire": "Анкета",
+  "@ProfileI18n_questionnaire": {
+    "description": "Анкета",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_interests": "Мои интересы",
+  "@ProfileI18n_interests": {
+    "description": "Интересы",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_interestsHint": "Расскажи о своих интересах.\nЭто улучшит работу алгоритма.",
+  "@ProfileI18n_interestsHint": {
+    "description": "Расскажи о своих интересах",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_selectInterests": "Отметьте от 1 до 9 вариантов",
+  "@ProfileI18n_selectInterests": {
+    "description": "Интересы",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_newPhotoDescription": "Добавление новых фото приведет\nк повторной модерации",
+  "@ProfileI18n_newPhotoDescription": {
+    "description": "Добавление новых фото приведет к повторной модерации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_successSaveData": "Данные успешно сохранены",
+  "@ProfileI18n_successSaveData": {
+    "description": "successSaveData",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_bioHint": "Напиши о себе несколько строк. Это кратно повысит интерес к тебе.",
+  "@ProfileI18n_bioHint": {
+    "description": "bioHint",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ProfileI18n_addPhotoHint": "Добавить\nфото",
+  "@ProfileI18n_addPhotoHint": {
+    "description": "Добавить фото подсказка",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_title": "Регистрация",
+  "@SignUpI18n_title": {
+    "description": "Заголовок на экране регистрации",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_signUpWithFB": "Регистрация через Facebook",
+  "@SignUpI18n_signUpWithFB": {
+    "description": "Название кнопки регистрации Facebook",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_signUpWithApple": "Регистрация с Apple",
+  "@SignUpI18n_signUpWithApple": {
+    "description": "Название кнопки регистрации Apple",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_signUpWithGoogle": "Регистрация с Google",
+  "@SignUpI18n_signUpWithGoogle": {
+    "description": "Название кнопки регистрации Google",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_privacy": "By entering you agree to the `Terms of Use` & `Privacy Policy`",
+  "@SignUpI18n_privacy": {
+    "description": "Название кнопки регистрации Google",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_enableNotificationsTitle": "Всего 3 вида PUSH-уведомлений:",
+  "@SignUpI18n_enableNotificationsTitle": {
+    "description": "Заголовок на экране включения нотификаций",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_enableNotificationsDescription1": "{choice,select, true{1. Девушка приглашает на свидание}false{1. Мужчина приглашает на свидание}}",
+  "@SignUpI18n_enableNotificationsDescription1": {
+    "description": "Описание на экране включения нотификаций",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "SignUpI18n_enableNotificationsDescription2": "2. Новый ежедневный подбор",
+  "@SignUpI18n_enableNotificationsDescription2": {
+    "description": "Описание на экране включения нотификаций",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_enableNotificationsDescription3": "3. Сообщение в чате",
+  "@SignUpI18n_enableNotificationsDescription3": {
+    "description": "Описание на экране включения нотификаций",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_enableNotificationsBtn": "Разрешить уведомления",
+  "@SignUpI18n_enableNotificationsBtn": {
+    "description": "Кнопка на экране включения нотификаций",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_helpBtn": "Помощь",
+  "@SignUpI18n_helpBtn": {
+    "description": "Help",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_confirmBtn": "Подтверждаю",
+  "@SignUpI18n_confirmBtn": {
+    "description": "Кнопка подтверждаю",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_botName": "JOJO",
+  "@SignUpI18n_botName": {
+    "description": "Имя бота",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_checkUserMessage": "Мне нужно убедиться что это действительно ты. Необходимо\nпройти верификацию по селфи.",
+  "@SignUpI18n_checkUserMessage": {
+    "description": "Сообщение от бота пользователю о необходимости пройти верификацию",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_selfieMessage": "Селфи не добавляется\nв твой профиль",
+  "@SignUpI18n_selfieMessage": {
+    "description": "Сообщение от бота пользователю о том, что селфи не добавляется в профиль",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_passVerificationBtn": "Пройти верификацию",
+  "@SignUpI18n_passVerificationBtn": {
+    "description": "Кнопка пройти верификацию",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_correctSelfiePoseMessage": "Необходимо максимально\nповторить эту позу.",
+  "@SignUpI18n_correctSelfiePoseMessage": {
+    "description": "Сообщение от бота пользователю о том, что необходимо повторить позу с селфи",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_takeSelfieBtn": "Сделать селфи",
+  "@SignUpI18n_takeSelfieBtn": {
+    "description": "Кнопка сделать селфи",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_poseMatchingCheckMessage": "Убедись, что твоя поза максимально повторяет позу оригинального\nфото. Не страшно если поза\nполучилась зеркальной.",
+  "@SignUpI18n_poseMatchingCheckMessage": {
+    "description": "Сообщение от бота пользователю о том, что поза должна соответствовать тестовому образцу",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_retakePhotoBtn": "Переснять фото",
+  "@SignUpI18n_retakePhotoBtn": {
+    "description": "Кнопка переснять фото",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_submitPhotoReviewBtn": "Отправить на проверку",
+  "@SignUpI18n_submitPhotoReviewBtn": {
+    "description": "Кнопка отправить на проверку",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_submitPhotoReviewEditModeMessage": "Отправить фото на проверку",
+  "@SignUpI18n_submitPhotoReviewEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие, что фото отправлено на проверку",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_dateBirthMessage": "Укажи свою дату рождения",
+  "@SignUpI18n_dateBirthMessage": {
+    "description": "Сообщение от бота пользователю о том, что необходимо указать дату рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_whatUsersSeeMessage": "Другие пользователи увидят\nтолько ваш возраст",
+  "@SignUpI18n_whatUsersSeeMessage": {
+    "description": "Сообщение от бота пользователю о том, что увидят другие пользователи",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_dateBirthEditModeMessage": "Дата рождения:",
+  "@SignUpI18n_dateBirthEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненную дату рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeNight": "night",
+  "@SignUpI18n_birthdayTimeNight": {
+    "description": "ночь",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeMorning": "morning",
+  "@SignUpI18n_birthdayTimeMorning": {
+    "description": "утро",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeDay": "day",
+  "@SignUpI18n_birthdayTimeDay": {
+    "description": "день",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeEvening": "evening",
+  "@SignUpI18n_birthdayTimeEvening": {
+    "description": "вечер",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeDoNotKnow": "doNotKnow",
+  "@SignUpI18n_birthdayTimeDoNotKnow": {
+    "description": "не знаю",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_aboutAlgorithmMessage": "При подборе используется\nпрофессиональная астрология.\nДля этого мне нужно еще два параметра",
+  "@SignUpI18n_aboutAlgorithmMessage": {
+    "description": "Сообщение от бота пользователю о том, что используется для подбора пары",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_aboutBirthdayTimeMessage": "Ты знаешь время своего рождения?",
+  "@SignUpI18n_aboutBirthdayTimeMessage": {
+    "description": "Сообщение от бота пользователю о том, знаешь ли ты время своего рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_yesBtn": "Да",
+  "@SignUpI18n_yesBtn": {
+    "description": "Кнопка да",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_noBtn": "Нет",
+  "@SignUpI18n_noBtn": {
+    "description": "Кнопка нет",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_birthdayTimeEditModeMessage": "Время Рождения:",
+  "@SignUpI18n_birthdayTimeEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненное время рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_enterCityMessage": "Введи населенный пункт своего рождения.",
+  "@SignUpI18n_enterCityMessage": {
+    "description": "Сообщение от бота пользователю о том, что требуется ввести населенный пункт своего рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_cityFieldHint": "Найти город",
+  "@SignUpI18n_cityFieldHint": {
+    "description": "Подсказка найти город",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_placeBirthEditModeMessage": "Место рождения:",
+  "@SignUpI18n_placeBirthEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненное место рождения",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_aboutHeightMessage": "Какой у тебя рост?",
+  "@SignUpI18n_aboutHeightMessage": {
+    "description": "Сообщение от бота пользователю о том, что требуется ввести свой рост",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_centimetersLabel": "centimeters",
+  "@SignUpI18n_centimetersLabel": {
+    "description": "Лейбл сантиметры",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_myHeightEditModeMessage": "Мой Рост:",
+  "@SignUpI18n_myHeightEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненный рост",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_cmEditModeMessage": "см.",
+  "@SignUpI18n_cmEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие величину измерения роста",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_aboutLanguagesMessage": "Укажи все языки, которыми ты владеешь. Это увеличит выборку кандидатов.",
+  "@SignUpI18n_aboutLanguagesMessage": {
+    "description": "Сообщение от бота пользователю о том, что требуется указать языки, которыми владеет пользователь",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_showLanguagesBtn": "Показать все языки",
+  "@SignUpI18n_showLanguagesBtn": {
+    "description": "Кнопка показать языки",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_languagesEditModeMessage": "Владение языками:",
+  "@SignUpI18n_languagesEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненные языки",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_botHelloMessage": "Давай познакомимся поближе.\nКак тебя зовут? ",
+  "@SignUpI18n_botHelloMessage": {
+    "description": "Бот приветствует пользователя и спрашивает его имя",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_botGreetingsMessage": "{name}, приятно познакомиться. \nДавай заполним основные параметры твоей анкеты.",
+  "@SignUpI18n_botGreetingsMessage": {
+    "description": "Бот говорит, что ему приятно познакомится и предлагает заполнить анкету",
+    "type": "text",
+    "placeholders_order": [
+      "name"
+    ],
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "SignUpI18n_enterNameFieldHint": "Введите ваше имя",
+  "@SignUpI18n_enterNameFieldHint": {
+    "description": "Сообщение от бота пользователю о том, что требуется ввести свое имя",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_nameErrorMessage": "Имя может содержать только буквы.",
+  "@SignUpI18n_nameErrorMessage": {
+    "description": "Сообщение описывающие ошибку введенных данных, которые не соответствую шаблону",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_infoAboutHumanMessage": "Человек на 80% визуал, первое впечатление складывается по фотографиям.",
+  "@SignUpI18n_infoAboutHumanMessage": {
+    "description": "Сообщение от бота пользователю о том, что люди чаще всего воспринимают информацию визуально",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_uploadPhotosMessage": "Загрузи минимум две свои фотографии хорошего качества.",
+  "@SignUpI18n_uploadPhotosMessage": {
+    "description": "Сообщение от бота пользователю о том, что требуется загрузить минимум 2 фотографии и что после можерации их можно заменить",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_photoBtn": "Добавить фото",
+  "@SignUpI18n_photoBtn": {
+    "description": "photo",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_userPreferenceMessage": "Теперь мне нужны твои\nпредпочтения по кандидатам",
+  "@SignUpI18n_userPreferenceMessage": {
+    "description": "Сообщение от бота пользователю о том, что он хочет узнать об интересах пользователя",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_desiredAgeMessage": "Укажи его желаемый  возраст",
+  "@SignUpI18n_desiredAgeMessage": {
+    "description": "Сообщение от бота пользователю о том, что требуется указать желаемый возраст кандидата",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_fromLabel": "От",
+  "@SignUpI18n_fromLabel": {
+    "description": "Лейбл предлог \"от\"",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_toLabel": "До",
+  "@SignUpI18n_toLabel": {
+    "description": "Лейбл предлог \"до\"",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_candidatesAgeEditModeMessage": "Возраст кандидатов:",
+  "@SignUpI18n_candidatesAgeEditModeMessage": {
+    "description": "Сообщение пользователю, показывающие сохраненный возраст кандидата",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_timeCheckMessage": "Отлично. Мне нужно 5 минут на проверку данных и подбора первых кандидатов для тебя.",
+  "@SignUpI18n_timeCheckMessage": {
+    "description": "Сообщение от бота пользователю о том, что на проверку пользователя требуется время",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_plusDateMessage": "Пока дополни свою анкету внутри приложения, это активирует все 17 параметров алгоритма. За 100% заполнение +1 свидание.",
+  "@SignUpI18n_plusDateMessage": {
+    "description": "Сообщение от бота пользователю о том, что за заполненную анкету на 100% будет подарок свидание",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_welcomeNextBtn": "Далее",
+  "@SignUpI18n_welcomeNextBtn": {
+    "description": "Кнопка далее",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_permissionCameraTitle": "Открой доступ к камере",
+  "@SignUpI18n_permissionCameraTitle": {
+    "description": "Заголовок диалога с разрешением к камере",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_permissionCameraDescription": "Без проверки личности регистрация невозможна. Чтобы пройти верификацию, необходимо дать доступ к камере в настройках.",
+  "@SignUpI18n_permissionCameraDescription": {
+    "description": "Описание в диалоге с разрешением к камере",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_openSettingsBtn": "Открыть настройки",
+  "@SignUpI18n_openSettingsBtn": {
+    "description": "Открыть настройки",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_abortRegistrationBtn": "Прервать регистрацию",
+  "@SignUpI18n_abortRegistrationBtn": {
+    "description": "Прервать регистрацию",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_permissionPhotosTitle": "Открой доступ к медиатеке",
+  "@SignUpI18n_permissionPhotosTitle": {
+    "description": "Заголовок диалога с разрешением к фото",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SignUpI18n_permissionPhotosDescription": "Без загрузки фотографий регистрация невозможна. Чтобы их загрузить, необходимо дать доступ в настройках телефона.",
+  "@SignUpI18n_permissionPhotosDescription": {
+    "description": "Описание в диалоге с разрешением к фото",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SplashI18n_title": "Splash title",
+  "@SplashI18n_title": {
+    "description": "Splash title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_title": "chat title",
+  "@ChatI18n_title": {
+    "description": "Description for Chat title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_chatNotFound": "Chat not found",
+  "@ChatI18n_chatNotFound": {
+    "description": "Description for Chat not found",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_pairs": "Пары",
+  "@ChatI18n_pairs": {
+    "description": "Пары",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_searchingPairs": "Ищем новые пары для вас...",
+  "@ChatI18n_searchingPairs": {
+    "description": "Ищем новые пары для вас...",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_newPairs": "Новые пары",
+  "@ChatI18n_newPairs": {
+    "description": "Новые пары",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_block": "Блокировка",
+  "@ChatI18n_block": {
+    "description": "Блокировка",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_emptyChatsTitle": "Чаты пока пусты",
+  "@ChatI18n_emptyChatsTitle": {
+    "description": "Чаты пока пусты",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_emptyChats": "Все взаимные симпатии и чаты будут\nотображаться здесь. Удачных свиданий",
+  "@ChatI18n_emptyChats": {
+    "description": "Все взаимные симпатии и чаты будут отображаться здесь. Удачных свиданий",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_chats": "Чаты",
+  "@ChatI18n_chats": {
+    "description": "Чаты",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_startChatTitle": "Начните общение!",
+  "@ChatI18n_startChatTitle": {
+    "description": "Начните общение!",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_startChatDesc": "Для открытия чата нажми\nна аватарку кандидата",
+  "@ChatI18n_startChatDesc": {
+    "description": "Для открытия чата нажми на аватарку кандидата",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_lastVisitRecently": "{gender,select, female{Была недавно}male{Был недавно}other{Было недавно}}",
+  "@ChatI18n_lastVisitRecently": {
+    "description": "Был недавно",
+    "type": "text",
+    "placeholders_order": [
+      "gender"
+    ],
+    "placeholders": {
+      "gender": {}
+    }
+  },
+  "ChatI18n_lastVisitYesterday": "{gender,select, female{Была вчера}male{Был вчера}other{Было вчера}}",
+  "@ChatI18n_lastVisitYesterday": {
+    "description": "Был вчера",
+    "type": "text",
+    "placeholders_order": [
+      "gender"
+    ],
+    "placeholders": {
+      "gender": {}
+    }
+  },
+  "ChatI18n_lastVisit": "{gender,select, female{Была {date}}male{Был {date}}other{Было {date}}}",
+  "@ChatI18n_lastVisit": {
+    "description": "Был",
+    "type": "text",
+    "placeholders_order": [
+      "gender",
+      "date"
+    ],
+    "placeholders": {
+      "gender": {},
+      "date": {}
+    }
+  },
+  "ChatI18n_today": "Сегодня",
+  "@ChatI18n_today": {
+    "description": "Сегодня",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_yesterday": "Вчера",
+  "@ChatI18n_yesterday": {
+    "description": "Вчера",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_watchAllPairs": "Смотреть\nвсе пары",
+  "@ChatI18n_watchAllPairs": {
+    "description": "Смотреть все пары",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ChatI18n_allPairs": "Все пары",
+  "@ChatI18n_allPairs": {
+    "description": "Все пары",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_title": "selection title",
+  "@SelectionI18n_title": {
+    "description": "Description for Selection title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_selectionNotFound": "Selection not found",
+  "@SelectionI18n_selectionNotFound": {
+    "description": "Description for Selection not found",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_moderationTitle": "Идет модерация",
+  "@SelectionI18n_moderationTitle": {
+    "description": "Идет модерация",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchingTitle": "Идет подбор...",
+  "@SelectionI18n_searchingTitle": {
+    "description": "Идет подбор...",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchingCandidate": "Идеальный кандидат",
+  "@SelectionI18n_searchingCandidate": {
+    "description": "Идеальный кандидат",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchingAge": "Возраст",
+  "@SelectionI18n_searchingAge": {
+    "description": "Возраст",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchingDesc": "От {from} до {to}",
+  "@SelectionI18n_searchingDesc": {
+    "description": "Возраст описание",
+    "type": "text",
+    "placeholders_order": [
+      "from",
+      "to"
+    ],
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "SelectionI18n_searchingLanguages": "Языки",
+  "@SelectionI18n_searchingLanguages": {
+    "description": "Языки",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_moreDetails": "Подробнее",
+  "@SelectionI18n_moreDetails": {
+    "description": "Подробнее",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_error": "Ошибка",
+  "@SelectionI18n_error": {
+    "description": "Ошибка",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_moderationReject": "Модерация не пройдена. Рекомендации в чате",
+  "@SelectionI18n_moderationReject": {
+    "description": "Модерация не пройдена. Рекомендации в чате",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searching": "Подбор",
+  "@SelectionI18n_searching": {
+    "description": "Подбор",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_firstSelection": "Первый подбор через:",
+  "@SelectionI18n_firstSelection": {
+    "description": "Первый подбор через",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_nextSelection": "Следующий подбор через:",
+  "@SelectionI18n_nextSelection": {
+    "description": "Следующий подбор через",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_noOffers": "Пока нет достойных девушек для тебя, но я активно ищу",
+  "@SelectionI18n_noOffers": {
+    "description": "Пока нет достойных девушек для тебя, но я активно ищу",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_fillProfileBtn": "Заполнить профиль",
+  "@SelectionI18n_fillProfileBtn": {
+    "description": "Заполнить профиль",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_fillProfileDescription": "Пока есть время, заполни свой профиль до конца и получи свидание в подарок",
+  "@SelectionI18n_fillProfileDescription": {
+    "description": "Пока есть время, заполни свой профиль до конца и получи свидание в подарок",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchParamsTitle": "Параметры поиска",
+  "@SelectionI18n_searchParamsTitle": {
+    "description": "Параметры поиска",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_searchParamsDescription": "Найдем для тебя идеального кандидата",
+  "@SelectionI18n_searchParamsDescription": {
+    "description": "Найдем для тебя идеального кандидата",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_goToChat": "Перейти в чат",
+  "@SelectionI18n_goToChat": {
+    "description": "Перейти в чат",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_aboutAlgorithm": "Подробнее про алгоритм",
+  "@SelectionI18n_aboutAlgorithm": {
+    "description": "Подробнее про алгоритм",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrologicalCompatibility": "Астрологическая совместимость",
+  "@SelectionI18n_astrologicalCompatibility": {
+    "description": "Астрологическая совместимость",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_aboutCandidate": "Главное о кандидате",
+  "@SelectionI18n_aboutCandidate": {
+    "description": "Главное о кандидате",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_candidateProfile": "Анкета кандидата",
+  "@SelectionI18n_candidateProfile": {
+    "description": "Анкета кандидата",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_distance": "{value} Км. от тебя",
+  "@SelectionI18n_distance": {
+    "description": " Км. от тебя",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_distanceLabel": "Расстояние",
+  "@SelectionI18n_distanceLabel": {
+    "description": " Расстояние",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_daysPlural": "{value,plural, =0{0 дней}=1{{value} день}=2{{value} дня}few{{value} дня}many{{value} дней}other{{value}}}",
+  "@SelectionI18n_daysPlural": {
+    "description": "Дней",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_hoursPlural": "{value,plural, =0{часов}=1{час}=2{часа}few{часа}many{часов}other{часов}}",
+  "@SelectionI18n_hoursPlural": {
+    "description": "Часы",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_minutesPlural": "{value,plural, =0{минут}=1{минута}=2{минуты}few{минуты}many{минут}other{минут}}",
+  "@SelectionI18n_minutesPlural": {
+    "description": "минут",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_secondsPlural": "{value,plural, =0{секунд}=1{секунда}=2{секунды}few{секунды}many{секунд}other{секунд}}",
+  "@SelectionI18n_secondsPlural": {
+    "description": "секунд",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_datingStatus": "{value,select, youAreLiked{Ты нравишься}waitingForCandidate{Ждем ответа}mutualAttraction{Взаимность}}",
+  "@SelectionI18n_datingStatus": {
+    "description": "Статус предложения",
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_heightValue": "{value} см",
+  "@SelectionI18n_heightValue": {
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "SelectionI18n_moreThanOne": "Больше одного",
+  "@SelectionI18n_moreThanOne": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_interests": "Интересы",
+  "@SelectionI18n_interests": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_languageSkills": "Владение языками",
+  "@SelectionI18n_languageSkills": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_wantToMeet": "Хочу познакомиться",
+  "@SelectionI18n_wantToMeet": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_decline": "Отказать",
+  "@SelectionI18n_decline": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_compatibility": "Совместимость",
+  "@SelectionI18n_compatibility": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrologicalLess18Title": "<18 баллов",
+  "@SelectionI18n_astrologicalLess18Title": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrological1825Title": "18-25 баллов",
+  "@SelectionI18n_astrological1825Title": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrological2532Title": "25-32 балла",
+  "@SelectionI18n_astrological2532Title": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrologicalMore32Title": ">32 Баллов",
+  "@SelectionI18n_astrologicalMore32Title": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrologicalLess18Desc": "Нелегкие взаимоотношения которые требуют усердной работы.",
+  "@SelectionI18n_astrologicalLess18Desc": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrological1825Desc": "Средний показатель, который позволит создать стабильные отношения.",
+  "@SelectionI18n_astrological1825Desc": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrological2532Desc": "Очень хороший показатель. Пара имеет все шансы создать крепкие и счастливые отношения.",
+  "@SelectionI18n_astrological2532Desc": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_astrologicalMore32Desc": "Идеальный вариант. В большинстве случаев это взаимная любовь с первого взгляда.",
+  "@SelectionI18n_astrologicalMore32Desc": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "SelectionI18n_detailInfo": "Детальная информация",
+  "@SelectionI18n_detailInfo": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LikedI18n_title": "Liked you",
+  "@LikedI18n_title": {
+    "description": "Description for Liked title",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LikedI18n_likedNotFound": "Liked not found",
+  "@LikedI18n_likedNotFound": {
+    "description": "Description for Liked not found",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LikedI18n_noLikes": "У тебя пока нет\nсимпатий",
+  "@LikedI18n_noLikes": {
+    "description": "Заголовок при отсутствии симпатий",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "LikedI18n_noLikesHint": "{choice,select, true{Здесь будут анкеты мужчин, которые\nпоставили тебе лайк}false{Здесь будут анкеты девушек, которые\nпоставили тебе лайк}}",
+  "@LikedI18n_noLikesHint": {
+    "description": "Подсказка при отсутствии симпатий",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "LikedI18n_shownSympathy": "{choice,select, true{Эти мужчины проявили симпатию к тебе.\nОни могут не соответствовать параметрам\nтвоего подбора}false{Эти девушки проявили симпатию к тебе.\nОни могут не соответствовать параметрам\nтвоего подбора}}",
+  "@LikedI18n_shownSympathy": {
+    "description": "Подсказка девушки/мужчине о том, что к ним проявлена симпатия",
+    "type": "text",
+    "placeholders_order": [
+      "choice"
+    ],
+    "placeholders": {
+      "choice": {}
+    }
+  },
+  "LikedI18n_likedSortTypeTitle": "{value,select, createdAt{По дате}compatibility{По совместимости}age{По возрасту}}",
+  "@LikedI18n_likedSortTypeTitle": {
+    "type": "text",
+    "placeholders_order": [
+      "value"
+    ],
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "LikedI18n_photoBadge": "NEW",
+  "@LikedI18n_photoBadge": {
+    "description": "Подсказка на фотографии о том, что пользователь новый",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}

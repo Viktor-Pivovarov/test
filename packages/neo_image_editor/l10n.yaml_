@@ -1,0 +1,12 @@
+# Where to find translation files
+arb-dir: lib/l10n
+
+# Which translation is the default/template
+template-arb-file: app_en.arb
+
+# What to call generated dart files
+output-localization-file: neo_image_editor_localizations.dart
+
+output-dir: ./lib/l10n/generated
+
+output-class: NeoImageEditorLocalizations

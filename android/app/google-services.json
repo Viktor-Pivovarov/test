@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "366442298722",
+    "project_id": "jojo-authenticate-dev",
+    "storage_bucket": "jojo-authenticate-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366442298722:android:9bdeac2b3f67ac1dcd403b",
+        "android_client_info": {
+          "package_name": "com.dating.jojo.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366442298722-fakp7t38np8d52tmfee269tqm0hmu055.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dating.jojo.dev",
+            "certificate_hash": "c0e4ada203b811e429c258bd6ba9b001d9099d18"
+          }
+        },
+        {
+          "client_id": "366442298722-p717rp2ph1oqoqpd84skcef5mv1neou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsSyGoNLq9c87O3jiCaRzC6z12_Hjyhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366442298722-p717rp2ph1oqoqpd84skcef5mv1neou7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366442298722-0pa8065jghgk33uh7b1bco37auaa09jm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dating.jojo.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>366442298722-0pa8065jghgk33uh7b1bco37auaa09jm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.366442298722-0pa8065jghgk33uh7b1bco37auaa09jm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>366442298722-i59n8p82bvi162ubdg91afphetnakh7m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDiJmZCqSSdoKVWZsO9F2gR-Y5dkb6Gef4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>366442298722</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dating.jojo.dev</string>
+	<key>PROJECT_ID</key>
+	<string>jojo-authenticate-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jojo-authenticate-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:366442298722:ios:b52a3d88754efe62cd403b</string>
+</dict>
+</plist>

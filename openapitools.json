@@ -1,0 +1,17 @@
+{
+    "$schema": "node_modules/@openapitools/openapi-generator-cli/config.schema.json",
+    "spaces": 2,
+    "generator-cli": {
+        "version": "5.1.1",
+        "generators": {
+            "jojo": {
+                "input-spec": "./api.json",
+                "generator-name": "dart-dio",
+                "output": "packages/jojo_api",
+                "additionalProperties": {
+                    "pubName": "jojo_api"
+                }
+            }
+        }
+    }
+}

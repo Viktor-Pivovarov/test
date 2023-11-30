@@ -1,0 +1,54 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "JoJo (Dev)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "dev",
+                "--dart-define=flavor=dev",
+                "--dart-define=API_URL=https://api.jojo-dating.com/api",
+                "--dart-define=WS_URL=ws://api.jojo-dating.com:8000/connection/websocket",
+                "--dart-define=APP_METRICA_KEY=8b32070a-64d6-4069-9880-a7c891c0b569"
+            ]
+        },
+        {
+            "name": "JoJo",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "prod",
+                "--dart-define=flavor=prod",
+                "--dart-define=API_URL=https://api.jojo-dating.com/api",
+                "--dart-define=WS_URL=ws://api.jojo-dating.com:8000/connection/websocket",
+                "--dart-define=APP_METRICA_KEY=2be2049b-d3c7-4677-b18c-070c96adbaeb"
+            ]
+        },
+        {
+            "name": "JoJo (Dev) Release",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": [
+                "--flavor",
+                "dev",
+                "--dart-define=flavor=dev",
+                "--dart-define=API_URL=https://api.jojo-dating.com/api",
+                "--dart-define=WS_URL=ws://api.jojo-dating.com:8000/connection/websocket",
+                "--dart-define=APP_METRICA_KEY=8b32070a-64d6-4069-9880-a7c891c0b569"
+            ]
+        },
+        {
+            "name": "JoJo (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}

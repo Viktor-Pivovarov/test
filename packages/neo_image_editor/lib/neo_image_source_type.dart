@@ -1,0 +1,1 @@
+enum NeoImageSourceType { camera, gallery }

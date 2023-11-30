@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>App - Flavor</key>
+		<string>$(APP_FLAVOR)</string>
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+		<true />
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleDisplayName</key>
+		<string>$(APP_NAME)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleLocalizations</key>
+		<array>
+			<string>en</string>
+			<string>de</string>
+			<string>it</string>
+			<string>fr</string>
+			<string>en</string>
+			<string>ru</string>
+		</array>
+		<key>NSCameraUsageDescription</key>
+		<string>The app asks for access to the camera to take photos.</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>The app is requesting access to your location to determine your location.</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>The app is asking for microphone access to record your voice.</string>
+
+		<!-- Permission options for the `location` group -->
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Need location when in use</string>
+		<key>NSLocationUsageDescription</key>
+		<string>Older devices need location.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Can I have location always?</string>
+
+		<!-- Permission options for the `mediaLibrary` group -->
+		<key>NSAppleMusicUsageDescription</key>
+		<string>Music!</string>
+		<key>kTCCServiceMediaLibrary</key>
+		<string>media</string>
+
+		<!-- Permission options for the `calendar` group -->
+		<key>NSCalendarsUsageDescription</key>
+		<string>Calendars</string>
+
+		<!-- Permission options for the `contacts` group -->
+		<key>NSContactsUsageDescription</key>
+		<string>contacts</string>
+
+		<!-- Permission options for the `speech` group -->
+		<key>NSSpeechRecognitionUsageDescription</key>
+		<string>speech</string>
+
+		<!-- Permission options for the `sensors` group -->
+		<key>NSMotionUsageDescription</key>
+		<string>motion</string>
+
+		<!-- Permission options for the `photos` group -->
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>photos</string>
+
+		<!-- Permission options for the `reminder` group -->
+		<key>NSRemindersUsageDescription</key>
+		<string>reminders</string>
+
+		<!-- Permission options for the `bluetooth` -->
+		<key>NSBluetoothAlwaysUsageDescription</key>
+		<string>bluetooth</string>
+		<key>NSBluetoothPeripheralUsageDescription</key>
+		<string>bluetooth</string>
+
+		<!-- Permission options for the `appTrackingTransparency` -->
+		<key>NSUserTrackingUsageDescription</key>
+		<string>appTrackingTransparency</string>
+
+
+		<key>CFBundleName</key>
+		<string>$(APP_NAME)</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.366442298722-ossru2nid4lrsam8gdn48qn6ks7760n5</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(FLUTTER_BUILD_NUMBER)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true />
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>The app is requesting access to your location to determine your location.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>The app is requesting access to your location to determine your location.</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>In order to access your photo library</string>
+		<key>UIApplicationSupportsIndirectInputEvents</key>
+		<true />
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>fetch</string>
+			<string>remote-notification</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false />
+	</dict>
+</plist>
